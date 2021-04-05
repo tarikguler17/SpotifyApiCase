@@ -1,5 +1,5 @@
 {
   "name": "New Playlist",
   "description": "New playlist description",
-  "public": false
+  "public": true
 }
